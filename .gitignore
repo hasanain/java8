@@ -1,0 +1,9 @@
+/bin/
+/doc/
+*.class
+*.md~
+.DS_Store
+.settings/
+.classpath
+.project.*
+session.dat
